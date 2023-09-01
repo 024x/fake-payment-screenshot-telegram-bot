@@ -10,7 +10,7 @@ ist = timezone('Asia/Kolkata')
 
 
 app = Client("my_bot", api_id=2171111, api_hash='fd7acd07303760c52dcc0ed8b2f73086',
-             bot_token='1963945108:AAFyo9bg2k4BImXsAHgghYg2bEkkdaiDe4g')
+             bot_token='1963945108:AAFyo')
 
 apps = ['phonepe', 'paytm', 'bhim', 'gpay',
         'airtel', 'amazon', 'whatsapp', 'paymini']
